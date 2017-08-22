@@ -5,6 +5,6 @@ Karami A., Dahl A. A., Turner-McGrievy G., Kharrazi H., Shaw J. G. (2017),  Char
 
 File Format:
 
-There is three txt files that, due to Twitter's terms of service, we can only release the tweet ids.
+There are three txt files that, due to Twitter's terms of service, we can only release the tweet ids.
 
 Each line of the data is the ID of the tweet. The original tweets can be obtained by applying the search API using queries according to the ID of the tweet.
